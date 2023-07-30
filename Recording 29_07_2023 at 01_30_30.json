@@ -1,0 +1,138 @@
+{
+  "title": "Recording 29/07/2023 at 01:30:30",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1512,
+      "height": 506,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+          "title": "Carnatic Youtube Collection"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/   AbhEri"
+        ],
+        [
+          "#LETTER_a > ul > li:nth-child(1) > a"
+        ],
+        [
+          "xpath///*[@id=\"LETTER_a\"]/ul/li[1]/a"
+        ]
+      ],
+      "offsetY": 35,
+      "offsetX": 74.8046875
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#PAGE_VIDEOS > div > div.card-body > ol:nth-child(1) > ul > li:nth-child(1) > a:nth-child(6) > i"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_VIDEOS\"]/div/div[2]/ol[1]/ul/li[1]/a[5]/i"
+        ]
+      ],
+      "offsetY": 21.3984375,
+      "offsetX": 13.359375
+    },
+    {
+      "type": "doubleClick",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/22 kharaharapriyA"
+        ],
+        [
+          "#PAGE_INFO > div.col-7 > table > tbody > tr:nth-child(1) > td:nth-child(2)"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_INFO\"]/div[1]/table/tbody/tr[1]/td[2]"
+        ],
+        [
+          "text/22 kharaharapriyA"
+        ]
+      ],
+      "offsetY": 27.90625,
+      "offsetX": 85.5234375
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/22 kharaharapriyA"
+        ],
+        [
+          "#PAGE_INFO > div.col-7 > table > tbody > tr:nth-child(1) > td:nth-child(2)"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_INFO\"]/div[1]/table/tbody/tr[1]/td[2]"
+        ],
+        [
+          "text/22 kharaharapriyA"
+        ]
+      ],
+      "offsetY": 27.90625,
+      "offsetX": 85.5234375
+    },
+    {
+      "type": "doubleClick",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/Melakartha",
+          "aria/[role=\"emphasis\"]"
+        ],
+        [
+          "#PAGE_INFO > div.col-7 > table > tbody > tr:nth-child(1) > td:nth-child(1) > em"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_INFO\"]/div[1]/table/tbody/tr[1]/td[1]/em"
+        ],
+        [
+          "text/Melakartha"
+        ]
+      ],
+      "offsetY": 10.90625,
+      "offsetX": 44
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/Melakartha",
+          "aria/[role=\"emphasis\"]"
+        ],
+        [
+          "#PAGE_INFO > div.col-7 > table > tbody > tr:nth-child(1) > td:nth-child(1) > em"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_INFO\"]/div[1]/table/tbody/tr[1]/td[1]/em"
+        ],
+        [
+          "text/Melakartha"
+        ]
+      ],
+      "offsetY": 10.90625,
+      "offsetX": 44
+    }
+  ]
+}

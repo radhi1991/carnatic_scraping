@@ -1,0 +1,56 @@
+{
+  "title": "carnatic scraping",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1512,
+      "height": 506,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+          "title": "Carnatic Youtube Collection"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/   AbhEri"
+        ],
+        [
+          "#LETTER_a > ul > li:nth-child(1) > a"
+        ],
+        [
+          "xpath///*[@id=\"LETTER_a\"]/ul/li[1]/a"
+        ]
+      ],
+      "offsetY": 38,
+      "offsetX": 87.8046875
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#PAGE_VIDEOS > div > div.card-body > ol:nth-child(1) > ul > li:nth-child(1) > a:nth-child(6) > i"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_VIDEOS\"]/div/div[2]/ol[1]/ul/li[1]/a[5]/i"
+        ]
+      ],
+      "offsetY": 16.3984375,
+      "offsetX": 11.359375
+    }
+  ]
+}

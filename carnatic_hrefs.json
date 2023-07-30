@@ -1,0 +1,73 @@
+{
+  "title": "carnatic_hrefs",
+  "steps": [
+    {
+      "type": "setViewport",
+      "width": 1512,
+      "height": 506,
+      "deviceScaleFactor": 1,
+      "isMobile": false,
+      "hasTouch": false,
+      "isLandscape": false
+    },
+    {
+      "type": "navigate",
+      "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+      "assertedEvents": [
+        {
+          "type": "navigation",
+          "url": "https://ramanarunachalam.github.io/Music/Carnatic/carnatic.html",
+          "title": "Carnatic Youtube Collection"
+        }
+      ]
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "aria/   basantbahAr"
+        ],
+        [
+          "#LETTER_b > ul > li:nth-child(7) > a"
+        ],
+        [
+          "xpath///*[@id=\"LETTER_b\"]/ul/li[7]/a"
+        ],
+        [
+          "text/basantbahAr"
+        ]
+      ],
+      "offsetY": 42,
+      "offsetX": 100.8046875
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#PAGE_VIDEOS > div > div.card-body > ol:nth-child(1) > ul > li:nth-child(1) > a:nth-child(6) > i"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_VIDEOS\"]/div/div[2]/ol[1]/ul/li[1]/a[5]/i"
+        ]
+      ],
+      "offsetY": 9.3984375,
+      "offsetX": 3.90625
+    },
+    {
+      "type": "click",
+      "target": "main",
+      "selectors": [
+        [
+          "#PAGE_VIDEOS > div > div.card-body > ol:nth-child(2) > ul > li > a:nth-child(6) > i"
+        ],
+        [
+          "xpath///*[@id=\"PAGE_VIDEOS\"]/div/div[2]/ol[2]/ul/li/a[5]/i"
+        ]
+      ],
+      "offsetY": 16.3984375,
+      "offsetX": 17.2890625
+    }
+  ]
+}
