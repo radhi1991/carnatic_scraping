@@ -1,1 +1,2827 @@
-[]
+[
+  {
+    "Raga": "AbhEri",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "AbhOgi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 da2 sa2   \nAvarohana sa2 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "agnikOpA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Ahirbhairavi",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 ma1 pa ni2 da2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ri1 sa1 ga3 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "alankAri",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ga3 ma2 da2 ni3 da2 sa2   \nAvarohana sa2 ni3 da2 ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "amrutabihAg",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ma2 ga3 pa ni3 sa2   \nAvarohana da2 ni3 da2 ma2 ga3 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "amrutavAhiNi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "amrutavarshiNi",
+    "TableData": "Melakartha 66 citrAmbari\nArohana sa1 ga3 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "AndhALi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "AndhOLikA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "amIr kalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 pa ma2 pa da2 ni3 sa2   \nAvarohana sa2 ri2 sa1 pa ma2 pa da2 ni3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Anandam",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Anandhabhairavi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ri2 ga2 ma1 pa da2 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Arabhi",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni3 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ardhradEsi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "asAvEri",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni2 sa1 pa da1 ma1 pa ri1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "aTANA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bAgESrI",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 pa da2 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bahudhAri",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bAlacandrikA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "balahamsA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ri2 ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bangALA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa ma1 ri2 pa sa2   \nAvarohana sa2 ni3 pa ma1 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "basantbahAr",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ma2 pa ga3 ma2 ni3 da1 ni3 sa2   \nAvarohana ri2 sa2 ni2 da2 pa ma1 ga2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bauLi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bEgaDA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ri2 ga3 ma1 pa da2 ni2 da2 pa sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhairavam",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhairavi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhAnucandrikA",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhAnudhanyAsi",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa2 ri1 ga2 ma2 ni3 da1 ni3   \nAvarohana da1 pa ma2 ga2 ri1 sa2 ni3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhAnumati",
+    "TableData": "Melakartha 04 vanaspati\nArohana ni2 sa1 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhAnupriyA",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ga1 ma1 pa sa2   \nAvarohana sa2 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhatiyAr",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 da2 pa da2 ma2 pa ga3 ma2 da2 sa2   \nAvarohana ri1 ni3 da2 pa ma2 pa ga3 ri1 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "bhavAbharaNam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhavAni",
+    "TableData": "Melakartha 44 bhavapriyA\nArohana sa1 ri1 ga2 ma2 pa da1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhavapriyA",
+    "TableData": "Melakartha 44 bhavapriyA\nArohana sa1 ri1 ga2 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhinnapancamam",
+    "TableData": "Melakartha 03 gAnamUrti\nArohana sa1 ri1 ga1 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhinnashaDjam",
+    "TableData": "Melakartha 09 dhEnukA\nArohana sa1 ri1 ga2 ri1 pa ma1 pa ni3 sa2   \nAvarohana sa2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhOgachAyanATTA",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ri3 ga3 ri3 ga3 mai pa ni2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa sa1 ni2 pa ma1 ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhOgavasantA",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri1 ga3 ma2 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhujangini",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhUpALam",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 pa da1 sa2   \nAvarohana sa2 da1 pa ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhUpALapancamam",
+    "TableData": "Melakartha 39 jhAlavarALi\nArohana sa1 ga1 ri1 ga1 pa ma2 da1 sa2   \nAvarohana sa2 pa da1 ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhUpALi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 da2 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhUshAvaLi",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ga3 ma2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhUshAvati",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bhuvanagAndhAri",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bihAg",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ma1 pa ni3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bilahari",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bindumAlini",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ga3 ri1 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 sa1 da2 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bImplAs",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana ni2 sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "bIthOvanapriyA",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana pa ni3 sa2 ri2 ga2 ma1 pa da1   \nAvarohana pa ma2 pa ri2 ma1 ga2 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "brundAvana sArangA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "brundAvani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "buddhamanOhari",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 sa1 pa sa2   \nAvarohana sa2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cakravAkam",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "calanATTA",
+    "TableData": "Melakartha 36 calanATTA\nArohana sa1 ri3 ga3 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "candrahasitam",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "candrajOti",
+    "TableData": "Melakartha 41 pAvani\nArohana sa1 ri1 ga1 ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "candrakauns",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ga2 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "candrapriyA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga1 ga2 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 ga1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "candrikA",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ri2 ga2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cArukESi",
+    "TableData": "Melakartha 26 cArukESi\nArohana sa1 ri2 ga3 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "caturAngini",
+    "TableData": "Melakartha 66 citrAmbari\nArohana sa1 ri2 ga3 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 da3 ni3 pa ga3 ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cenchu kAmbhOji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 pa ma1 ga3 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cenchuruTTi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana da2 sa2 ri2 ga3 ma1 pa da2 ni2   \nAvarohana ni2 da2 pa ma1 ga3 ri2 sa2 ni2 da2 pa da2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "chAyA nATTA",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ri3 ga3 ma1 pa ma1 pa sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "chAyagauLA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "chAyaranjani",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ga2 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "chAyAtarangiNi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cintAmaNi",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ga2 ri2 ga2 ma2 ga2 ri2 ga2 pa ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "citrAmbari",
+    "TableData": "Melakartha 66 citrAmbari\nArohana sa1 ri2 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "cittaranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa2 ri2 ga2 ma1 pa da2 ni2   \nAvarohana ni2 da2 pa ma1 ga2 ri2 sa2 ni2",
+    "URLs": []
+  },
+  {
+    "Raga": "cUrNika vinOdhini",
+    "TableData": "Melakartha 66 citrAmbari\nArohana sa1 ri2 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 ni3 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "darbAr",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da2 ni2 sa2   \nAvarohana ri2 sa2 ni2 sa1 da2 pa ma1 ri2 ga2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "darbAri kAnaDA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana ni2 sa1 ri2 ga2 ri2 sa1 ma1 pa da1 ni2 sa2   \nAvarohana sa2 da1 ni2 pa ma1 pa ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dayAvati",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEs",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEsAkshi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEsiya tODi",
+    "TableData": "Melakartha 31 yAgapriyA\nArohana sa1 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEva amrutavarshiNi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEvagAndhAram",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEvagAndhAri",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEvamanOhari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dEvaranji",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ma1 pa da1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhAkshAyaNi",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ri2 ga3 ma1 ni3 da2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhanaSrI",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana ni2 sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhanyAsi",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dharmavati",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ri2 ga2 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhAtuvardhani",
+    "TableData": "Melakartha 69 dhAtuvardhani\nArohana sa1 ri3 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhavalAmbari",
+    "TableData": "Melakartha 49 dhavalAmbari\nArohana sa1 ri1 ga3 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhavalAngam",
+    "TableData": "Melakartha 49 dhavalAmbari\nArohana sa1 ri1 ga3 ma2 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhEnukA",
+    "TableData": "Melakartha 09 dhEnukA\nArohana sa1 ri1 ga2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhEvakriyA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhipakA",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ga3 ma2 pa da1 pa sa2   \nAvarohana sa2 ni3 da1 ni3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dhUrvanki",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dIpakam",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri2 ma2 pa da1 pa sa2   \nAvarohana sa2 ni3 da1 ni3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dIpALi",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "divyamaNi",
+    "TableData": "Melakartha 48 divyamaNi\nArohana sa1 ri1 ga2 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "drAviDa kalAvati",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "dujAvanti",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 ga3 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ma1 ri2 ga2 ri2 sa1 ni2 da2 ni2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "dundubi",
+    "TableData": "Melakartha 48 divyamaNi\nArohana sa1 ri1 ga2 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "durai",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 pa ma1 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "durgA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 da2 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gaganamohini",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ga3 pa da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gamakakriyA",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ri1 ga3 ma2 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gamakasAmantam",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ga2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gamanaSrama",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ri1 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gambhIranATTA",
+    "TableData": "Melakartha 36 calanATTA\nArohana sa1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gambhIravANi",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ga3 pa ma1 da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gangatarangini",
+    "TableData": "Melakartha 33 gAngEyabhUshaNi\nArohana sa1 ri3 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ma1 ga3 ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gAngEyabhUshaNi",
+    "TableData": "Melakartha 33 gAngEyabhUshaNi\nArohana sa1 ri3 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gAnamUrti",
+    "TableData": "Melakartha 03 gAnamUrti\nArohana sa1 ri1 ga1 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gaNapati",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "ganasamavarALi",
+    "TableData": "Melakartha 03 gAnamUrti\nArohana sa1 ri1 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gAnavAridhi",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ma1 ri3 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 da2 ni2 pa ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "garuDadhvani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 da2 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "garuDapriyA",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ri1 sa1 pa ma2 ri1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gauDamalhAr",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni3 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gauLA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ri1 ga3 ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gaulipantu",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 da1 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gauri",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gauri vELAvaLi",
+    "TableData": "Melakartha 23 gaurimanOhari\nArohana sa1 ri2 ga2 sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ri2 ga1 ga2 sa1 ri2 ma1 ma1 pa da2 da2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gaurimanOhari",
+    "TableData": "Melakartha 23 gaurimanOhari\nArohana sa1 ri2 ga2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gavAmbOdhi",
+    "TableData": "Melakartha 43 gavAmbOdhi\nArohana sa1 ri1 ga2 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gAvati",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 pa ni3 sa2   \nAvarohana sa2 da2 ma1 pa ga3 ma1 ri2 ni3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gAyakapriyA",
+    "TableData": "Melakartha 13 gAyakapriyA\nArohana sa1 ri1 ga3 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "geya hejaji",
+    "TableData": "Melakartha 13 gAyakapriyA\nArohana sa1 ri1 ma1 ga3 ma1 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ghaNTA",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ga2 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gItapriyA",
+    "TableData": "Melakartha 63 latAngi\nArohana sa1 ri2 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gOmEdhikapriyA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gOpikAtilakam",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ri2 ga2 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gOpikAvasantam",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ma1 pa ni2 da1 ni2 da1 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gOpriyA",
+    "TableData": "Melakartha 62 rishabhapriyA\nArohana sa1 ri2 ga3 ma2 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "guhamanohari",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "guharanjani",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 sa1 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "guNDakriyA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gurjari",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 da1 ni3 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "gurjari tODi",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "gurupriyA",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ga3 ma2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsanAdham",
+    "TableData": "Melakartha 60 nItimati\nArohana sa1 ri2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsAnandi",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ri1 ga3 ma2 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsanantini",
+    "TableData": "Melakartha 18 haTakAmbari\nArohana sa1 ga3 ma1 pa sa2   \nAvarohana sa2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsabhramari",
+    "TableData": "Melakartha 58 hEmavati\nArohana sa1 ri2 ga2 ma2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsadhvani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 pa ni3 sa2   \nAvarohana sa2 ni3 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsadIpikA",
+    "TableData": "Melakartha 23 gaurimanOhari\nArohana sa1 ri2 ga2 ma1 da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsagAmini",
+    "TableData": "Melakartha 52 ramapriyA\nArohana sa1 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsakalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsalatA",
+    "TableData": "Melakartha 63 latAngi\nArohana sa1 ri2 ga3 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsarUpini",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsavAhini",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ri2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hamsavinOdhini",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hari nArAyaNi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "haricaran",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "harikAmbhOji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "haTakAmbari",
+    "TableData": "Melakartha 18 haTakAmbari\nArohana sa1 ri1 ga3 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hEmavati",
+    "TableData": "Melakartha 58 hEmavati\nArohana sa1 ri2 ga2 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindhustAni bihAg",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ma1 pa ni3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindhustAni gAndhAri",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "hindhustAni kApi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga2 ma1 da2 pa ga2 ri2 sa1 ni2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindhustAni tODi",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana ni3 ri1 ga2 ma2 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindOLa darbAr",
+    "TableData": "Melakartha 32 rAgavardhani\nArohana sa1 ga3 ma1 pa sa2   \nAvarohana sa2 ni2 da1 pa ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindOLa vasantam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 da2 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hindOLam",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "hradhini",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ga3 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "husEni",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "IsamanOhari",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ri2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jaDatari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 ga2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jaganmOhinam",
+    "TableData": "Melakartha 38 jalArNavam\nArohana sa1 ri1 ga1 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jaganmOhini",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jaijaivanti",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ri2 sa1 da2 ni2 pa ri2 ga3 ma1 pa ni2 sa2   \nAvarohana ni2 sa2 ni2 da2 pa da2 ma1 ga3 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jalArNavam",
+    "TableData": "Melakartha 38 jalArNavam\nArohana sa1 ri1 ga1 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jankAradhvani",
+    "TableData": "Melakartha 19 jankAradhvani\nArohana sa1 ri2 ga2 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "JAna cintAmaNi",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 ri1 ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "janaranjani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "janasammodhini",
+    "TableData": "Melakartha 25 mAraranjani\nArohana sa1 ri2 ga3 pa da1 sa2   \nAvarohana sa2 da1 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jeya nArAyaNi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jeyamanOhari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 da2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jeyantasEnA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jeyantaSrI",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jeyaSuddhamALavi",
+    "TableData": "Melakartha 18 haTakAmbari\nArohana sa1 ri1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jhAlavarALi",
+    "TableData": "Melakartha 39 jhAlavarALi\nArohana sa1 ri1 ga1 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jingaLA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da1 ni2 da1 pa sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jIvantikA",
+    "TableData": "Melakartha 48 divyamaNi\nArohana sa1 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jOg",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 ma1 ga3 sa1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jOnpuri",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jujAhuli",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jyOti",
+    "TableData": "Melakartha 68 jyOtiSvarUpiNi\nArohana sa1 ri3 ga3 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "jyOtiSvarUpiNi",
+    "TableData": "Melakartha 68 jyOtiSvarUpiNi\nArohana sa1 ri3 ga3 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kadanakuthUhalam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 da2 ni3 ga3 pa sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kaikavAsi",
+    "TableData": "Melakartha 60 nItimati\nArohana sa1 ri2 ga2 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalAnidhi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 sa1 pa ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalakanti",
+    "TableData": "Melakartha 13 gAyakapriyA\nArohana sa1 ri1 ga3 ma1 da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalAsAvEri",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalAvati",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga3 sa1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalgaDa",
+    "TableData": "Melakartha 13 gAyakapriyA\nArohana sa1 ri1 ga3 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAlidAsA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa ni2 sa2   \nAvarohana sa2 ni2 pa ni3 pa da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalyANa kEsari",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa da1 sa2   \nAvarohana sa2 da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalyANa vasantam",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ga2 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kamalAmanOhari",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAmavardhini",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ga3 ri1 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAmbhOji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1 ni3 pa da2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAntAmaNi",
+    "TableData": "Melakartha 61 kAntAmaNi\nArohana sa1 ri2 ga3 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAnaDA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kanakAmbari",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kanakAngi",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ga1 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kannaDA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ma1 pa ma1 da2 ni3 sa2   \nAvarohana sa2 da2 pa ma1 ga3 ma1 ri2 ni3. sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kannaDa maruvA",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kannaDabangALA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 ga3 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kannaDagauLA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kApi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kApi nArAyaNi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "karnATaka bihAg",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa da2 ma1 ga3 ri2 ga3 ri2",
+    "URLs": []
+  },
+  {
+    "Raga": "karnATaka dEvagAndhAri",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "karnATaka hindOLam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "karnATaka kApi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 ri2 pa ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "karnATaka Suddha sAvEri",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "karNaranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 ga2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kaRpUra bharaNi",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ri2 ga2 pa ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kArtiyAyaNi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 pa da2 sa2   \nAvarohana sa2 da2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kAshirAmakriyA",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ga3 ri1 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kauSikAdhvani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kEdAragauLA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kEdAram",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ma1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kEsari",
+    "TableData": "Melakartha 25 mAraranjani\nArohana sa1 ri2 ga3 ma1 pa ma1 da1 pa da1 sa2   \nAvarohana sa2 da1 ni1 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "khamAs",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kharaharapriyA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kiraNAvaLi",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ri2 ga2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kIravANi",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ri2 ga2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOkilA",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOkiladhvani",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOkilapriyA",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 ri1 ga2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOkilaravam",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 ri1 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOkilavarALi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 ma1 pa ma1 ga3 ri2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOlAhalam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 pa ma1 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOmalAngi",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kOsalam",
+    "TableData": "Melakartha 71 kOsalam\nArohana sa1 ri3 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "krusnavENi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kumarapriyA",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ga1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kumbhini",
+    "TableData": "Melakartha 41 pAvani\nArohana sa1 ga1 ri1 ga1 ma2 pa ni3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kunjari",
+    "TableData": "Melakartha 05 mAnavati\nArohana sa1 ri1 ma1 pa da2 pa sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kuntalam",
+    "TableData": "Melakartha 61 kAntAmaNi\nArohana sa1 ri2 ga3 ma2 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kuntalavarALi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 pa da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kumudakriyA",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri1 ga3 ma2 da1 sa2   \nAvarohana sa2 ni3 da1 ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kuRinji",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ni3 sa2 ri2 ga3 ma1 pa da2   \nAvarohana da2 pa ma1 ga3 ri2 sa2 ni3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kusumAkaram",
+    "TableData": "Melakartha 71 kOsalam\nArohana sa1 ri3 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kutuhalam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 ni3 da2 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "kuvalayabharaNam",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ri1 ga3 ma1 da1 ni1 sa2   \nAvarohana sa2 ni1 da1 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "lalitA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "lalitapancamam",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "latAngi",
+    "TableData": "Melakartha 63 latAngi\nArohana sa1 ri2 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "latAntapriyA",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ga1 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "lavAngi",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ma1 da1 sa2   \nAvarohana sa2 da1 ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAdhavamanOhari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga3 ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "madhukauns",
+    "TableData": "Melakartha 58 hEmavati\nArohana sa1 ga2 ma2 pa ni2 pa sa2   \nAvarohana sa2 ni2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "madhulikA",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ga3 ma1 ni3 sa2   \nAvarohana sa2 ni3 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "madhuvanti",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ga2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "madhyamarAvaLi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "madhyamAvati",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mahati",
+    "TableData": "Melakartha 43 gavAmbOdhi\nArohana sa1 ga2 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mahUri",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 ga3 ri2 ga3 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "malahari",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mALava",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mALavapancamam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mALavaSrI",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa ni2 da2 ni2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mALavi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa ni2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ni2 pa ma1 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "malayamArutam",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mandAri",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri1 ga3 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mangaLakaiSiki",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ma1 ga3 ma1 pa ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "manjari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ri2 ga2 ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAnji",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAnavati",
+    "TableData": "Melakartha 05 mAnavati\nArohana sa1 ri1 ga1 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAND",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ma1 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "maNirangu",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "manOhari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ri2 ga2 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "manolayam",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "manOramA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa da1 pa sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "manOranjani",
+    "TableData": "Melakartha 05 mAnavati\nArohana sa1 ri1 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAraranjani",
+    "TableData": "Melakartha 25 mAraranjani\nArohana sa1 ri2 ga3 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mArga hindOLam",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mArgadEsi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ri1 ga3 da1 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "maruvA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ga3 ma1 ga3 ri1 sa1 ri1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "maruva bihAg",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ga3 ma1 ga3 ri1 sa1 ri1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "maruvadhanyAsi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mAyAmALavagauLA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mEcabauLi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mEcakalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mEgaranjani",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 ni3 sa2   \nAvarohana sa2 ni3 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra bhairavi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 da2 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra bilahari",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra harikAmbhOji",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra jOg",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra khamAj",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra mAND",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra manolayam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 da2 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra pahaDi",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra pIlU",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra sivaranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 pa da2 sa2   \nAvarohana sa2 da2 pa ga3 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "miSra yaman",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "miyAn malhAr",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 pa ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 pa ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOhana gandhi",
+    "TableData": "Melakartha 36 calanATTA\nArohana sa1 ga3 ri1 ga3 ma1 pa da1 pa ni2 sa2   \nAvarohana ni3 sa2 da3 pa ma1 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOhana kalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOhana nATTA",
+    "TableData": "Melakartha 09 dhEnukA\nArohana sa1 ga2 ma1 pa da1 pa ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa da1 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOhanam",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 pa da2 sa2   \nAvarohana sa2 da2 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOhanAngi",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ri3 ga3 pa da2 sa2   \nAvarohana sa2 da2 pa ga3 pa da2 pa ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mOharanjani",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ri2 ga2 pa da2 sa2   \nAvarohana sa2 ni3 da2 ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mukAri",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 da2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "muktidAyini",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "mukundamAlini",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga2 pa da2 sa2   \nAvarohana sa2 da2 pa ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "muraLi",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ri3 ga3 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nabhOmaNi",
+    "TableData": "Melakartha 40 navanItam\nArohana sa1 ri1 ga1 ri1 ma2 pa sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAdanAmakriyA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa2 ri1 ga3 ma1 pa da1 ni3   \nAvarohana ni3 da1 pa ma1 ga3 ri1 sa2 ni3",
+    "URLs": []
+  },
+  {
+    "Raga": "nAdavarangini",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 pa ma1 ni2 da2 ni2 sa2   \nAvarohana sa2 pa ni2 da2 pa ma1 ga2 ri2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAdhabrahmA",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 pa ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgAnandhini",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ri2 ga3 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgAbharaNam",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ri2 ga2 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgabhUshani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgadhvani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 sa1 ma1 ga3 ma1 pa ni3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ni3 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgagAndhAri",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgaSvarAvaLi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAgavaLLi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nagavarali",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 ma1 pa ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "naLinakAnti",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ga3 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAmanArAyaNi",
+    "TableData": "Melakartha 50 nAmanArAyaNi\nArohana sa1 ri1 ga3 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAmadEsi",
+    "TableData": "Melakartha 50 nAmanArAyaNi\nArohana sa1 ri1 ga3 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nandhkauns",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 sa1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nArAyaNAdri",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nArAyaNagauLA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nArAyaNi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAri rItigauLA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri1 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ri2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nartaki",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nAsikAbhUshaNi",
+    "TableData": "Melakartha 70 nAsikAbhUshaNi\nArohana sa1 ri3 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "naTa nArAyaNi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "naTabhairavi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "naTAbharaNam",
+    "TableData": "Melakartha 10 nATakapriyA\nArohana sa1 ri1 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nATakapriyA",
+    "TableData": "Melakartha 10 nATakapriyA\nArohana sa1 ri1 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nATTA",
+    "TableData": "Melakartha 36 calanATTA\nArohana sa1 ri3 ga3 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nATTakuRinji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 ni2 da2 ni2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "navanItam",
+    "TableData": "Melakartha 40 navanItam\nArohana sa1 ri1 ga1 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "navarasa kannaDA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "navaratna vilAsam",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da1 pa sa2   \nAvarohana sa2 da1 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "navarOj",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana pa da2 ni3 sa2 ri2 ga3 ma1 pa   \nAvarohana ma1 ga1 ri3 sa2 ni2 da2 pa",
+    "URLs": []
+  },
+  {
+    "Raga": "nAyaki",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da2 ni2 da2 pa sa2   \nAvarohana sa2 ni2 da2 pa ma1 ri2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nIlamaNi",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nIlAmbari",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga3 ri2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nirOshTA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "nItimati",
+    "TableData": "Melakartha 60 nItimati\nArohana sa1 ri2 ga2 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "OmkAri",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pADi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa da1 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pahaDi",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 pa da2 pa da2 sa2   \nAvarohana ni3 da2 pa ga3 ma1 ga3 ri2 sa2 ni3 da2 pa da2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pancamam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 da2 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pantuvarALi",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri1 ga3 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pasupatipriyA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ma1 da2 sa2   \nAvarohana sa2 da2 ma1 pa ri2 ma1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "paTdIp",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana ni2 sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1 ni2 sa1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pAvani",
+    "TableData": "Melakartha 41 pAvani\nArohana sa1 ri1 ga1 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "phalamanjari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "phalaranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa ma1 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pharas",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "phEnadhuti",
+    "TableData": "Melakartha 02 ratnAngi\nArohana sa1 ri1 ma1 pa da1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pIlU",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana ni2 sa1 ga3 ma1 pa ni2 da2 pa sa2   \nAvarohana sa2 ni2 da2 pa da2 pa ma1 ga2 ri2 sa1 ni2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pramodhini",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ga3 ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pranavapriyA",
+    "TableData": "Melakartha 57 simhEndramadhyamam\nArohana sa1 ri2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pratApavarALi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 pa sa2   \nAvarohana sa2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Prati madhyamavati",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "priyadarshani",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "punnAgavarALi",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana ni2 sa2 ri1 ga2 ma1 pa da1 ni2   \nAvarohana ni2 da1 pa ma1 ga2 ri1 sa2 ni2",
+    "URLs": []
+  },
+  {
+    "Raga": "puriya dhanaSrI",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana ni3 ri1 ga3 ma2 pa da1 pa ni3 sa2   \nAvarohana ri1 ni3 da1 pa ma2 ga3 ma2 ri1 ga3 ri1 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "pUriya kalyAN",
+    "TableData": "Melakartha 51 pantuvarALi\nArohana sa1 ri1 ga3 ma2 pa da1 ni3 sa2   \nAvarohana ri1 ni3 da1 pa ma2 ga3 ma2 ri1 ga3 ri1 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrNacandhrikA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 pa sa2   \nAvarohana sa2 ni3 pa ma1 ri2 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrNalalitA",
+    "TableData": "Melakartha 41 pAvani\nArohana sa1 ri1 ma2 ga1 ri1 ma2 pa ni3 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrNapancamam",
+    "TableData": "Melakartha 41 pAvani\nArohana sa2 ri1 ga1 ma2 pa da2   \nAvarohana da2 pa ma2 ga1 ri1 sa2",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrNashaDjam",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrvagauLA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 ri2 ga3 sa1 ri2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrvakamOdari",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri ga ma pa da sa2   \nAvarohana sa2 da pa ma ga ri sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrvi",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 ma1 pa da1 ni3 da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 da1 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pUrvikalyANi",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ri1 ga3 ma2 pa da2 pa sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pushkara gOdAvari",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 da2 sa2   \nAvarohana sa2 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "pushpalatikA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rAgacUDAmaNi",
+    "TableData": "Melakartha 32 rAgavardhani\nArohana sa1 ri3 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ri3 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rAgamAlikA",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "rAgapanjaram",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rAgavardhani",
+    "TableData": "Melakartha 32 rAgavardhani\nArohana sa1 ri3 ga3 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rAgESrI",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 da2 ni3 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "raghupriyA",
+    "TableData": "Melakartha 42 raghupriyA\nArohana sa1 ri1 ga1 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ramakriyA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 pa da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ramamanOhari",
+    "TableData": "Melakartha 52 ramapriyA\nArohana sa1 ri1 ga3 ma2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ramapriyA",
+    "TableData": "Melakartha 52 ramapriyA\nArohana sa1 ri1 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ranjani",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ri2 ga2 ma2 da2 sa2   \nAvarohana sa2 ni3 da2 ma2 ga2 sa1 ri2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rAmkali",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ri1 ga2 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rasALi",
+    "TableData": "Melakartha 04 vanaspati\nArohana sa1 ri1 ma1 pa da2 ni2 sa2   \nAvarohana sa2 da2 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rasamanjari",
+    "TableData": "Melakartha 72 rasikapriyA\nArohana sa1 ri3 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rasavinOdhini",
+    "TableData": "Melakartha 52 ramapriyA\nArohana sa1 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rasikapriyA",
+    "TableData": "Melakartha 72 rasikapriyA\nArohana sa1 ri3 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rasikaranjani",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 pa sa2   \nAvarohana sa2 da2 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ratipatipriyA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ratnAngi",
+    "TableData": "Melakartha 02 ratnAngi\nArohana sa1 ri1 ga1 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ravicandrikA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "ravikriyA",
+    "TableData": "Melakartha 42 raghupriyA\nArohana sa1 ga1 ri1 ga1 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rEvagupti",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa da1 sa2   \nAvarohana sa2 da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rEvati",
+    "TableData": "Melakartha 02 ratnAngi\nArohana sa1 ri1 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rishabhapriyA",
+    "TableData": "Melakartha 62 rishabhapriyA\nArohana sa1 ri2 ga3 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rishipriyA",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ri2 ga2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rItigauLA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ri2 ga2 ma1 ni2 da2 ma1 ni2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ma1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rOhini",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ga2 ma1 ma2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma2 ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rOjAkAdambari",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "rudrapriyA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rukmAmbari",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ga3 pa ni3 sa2   \nAvarohana sa2 ni3 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "rUpavati",
+    "TableData": "Melakartha 12 rUpavati\nArohana sa1 ri1 ga2 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SahAnA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 sa1 da2 ni2 da2 pa ma1 ga3 ma1 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "saindhavi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana ni2 da2 ni2 sa2 ri2 ga2 ma1 pa da2 ni2   \nAvarohana da2 pa ma1 ga2 ri2 sa2 ni2 da2 ni2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAlagam",
+    "TableData": "Melakartha 37 sAlagam\nArohana sa1 ri1 ga1 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAlakabhairavi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAlanga nATTA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sallapA",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ga3 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAmA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "samakadambari",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ma1 ga3 ma1 pa da2 sa2   \nAvarohana sa2 ni3 da2 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "samantA",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ri2 ga3 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 ni3 da3 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SankarAbharaNam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "santAnamanjari",
+    "TableData": "Melakartha 67 sucaritrA\nArohana sa1 ri3 ga3 ma2 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "samudrapriyA",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ga2 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAramati",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sArangA",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ri2 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAranga tarangini",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sArangamalAr",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ri2 sa1 ni3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAranganAtA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni3 sa1 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sarasAngi",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sarasAnanA",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ga3 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sarasvati",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ma2 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sarasvati manOhari",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 da2 sa2   \nAvarohana sa2 da2 ni2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sarvaSrI",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ma1 pa sa2   \nAvarohana sa2 pa ma1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "saugAndhini",
+    "TableData": "Melakartha 37 sAlagam\nArohana sa1 ri1 ma2 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "saurasEnA",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "saurAshTram",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ga3 ma1 pa ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ni2 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sauvirA",
+    "TableData": "Melakartha 44 bhavapriyA\nArohana sa1 ri1 ga2 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAvEri",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sAvithri",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ga3 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SEkharacandrikA",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ri1 ga2 ma2 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sEnAgrani",
+    "TableData": "Melakartha 07 sEnAvati\nArohana sa1 ri1 ga2 ri1 ma1 ga2 ma1 pa ni1 da1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga2 ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sEnAvati",
+    "TableData": "Melakartha 07 sEnAvati\nArohana sa1 ri1 ga2 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SEshAdri",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "shaDvitamArgiNi",
+    "TableData": "Melakartha 46 shaDvitamArgiNi\nArohana sa1 ri1 ga2 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "shailadEsAkshi",
+    "TableData": "Melakartha 35 sUlini\nArohana sa1 ma1 ga3 pa da2 sa2   \nAvarohana sa2 ni3 da2 sa1 ni3 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "shaNmukhapriyA",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ri2 ga2 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "shAradapriyA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sharAvati",
+    "TableData": "Melakartha 25 mAraranjani\nArohana sa1 ri2 ga3 ma1 pa da1 ni1 da1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "siddhasEnA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ri2 ga2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 ma1 pa ma1 ri2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "siddhi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 pa da2 sa2   \nAvarohana sa2 da2 pa ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sindhu kannaDA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 ga3 ma1 ri2 ga3 ma1 pa da2 pa sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sindhu mandAri",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa sa2   \nAvarohana sa2 ni3 da2 pa ga3 ma1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sindhubhairavi",
+    "TableData": "Melakartha 10 nATakapriyA\nArohana sa1 ri2 ga2 ma1 ga2 pa da1 ni2 sa2   \nAvarohana ni2 da1 pa ma1 ga2 ri1 sa2 ni2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sindhurAmakriyA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 pa da1 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "simhavAhini",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ga2 ma1 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "simhEndramadhyamam",
+    "TableData": "Melakartha 57 simhEndramadhyamam\nArohana sa1 ri2 ga2 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Siva kAmbhOji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SivapriyA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 pa da2 sa2   \nAvarohana sa2 da2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Sivaranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 pa da2 sa2   \nAvarohana sa2 da2 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Sivashakti",
+    "TableData": "Melakartha 10 nATakapriyA\nArohana sa1 ga2 ma1 da2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "snehapriyA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sOhini",
+    "TableData": "Melakartha 53 gamanaSrama\nArohana sa1 ga3 ma2 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrI",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa da2 ni2 pa ma1 ri2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrIkAnti",
+    "TableData": "Melakartha 46 shaDvitamArgiNi\nArohana sa1 ga2 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrIkara",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ga3 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrImaNi",
+    "TableData": "Melakartha 02 ratnAngi\nArohana sa1 ri1 ga1 pa da1 sa2   \nAvarohana sa2 ni2 da1 pa ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrIranjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SrOtasvani",
+    "TableData": "Melakartha 21 kIravANi\nArohana sa1 ga2 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Sruti ranjani",
+    "TableData": "Melakartha 61 kAntAmaNi\nArohana sa2 ri2 ga3 ma2 pa da1 ni1   \nAvarohana ni1 da1 pa ma2 ga3 sa2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "stavarAjam",
+    "TableData": "Melakartha 46 shaDvitamArgiNi\nArohana sa1 ri1 ma2 pa da2 sa2   \nAvarohana sa2 ni2 da2 ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SubhapantuvarALi",
+    "TableData": "Melakartha 45 SubhapantuvarALi\nArohana sa1 ri1 ga2 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sucaritrA",
+    "TableData": "Melakartha 67 sucaritrA\nArohana sa1 ri3 ga3 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha bangALA",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ri2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha Desi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ga2 ri2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha dhanyAsi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha hindOLam",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha kAmbhOji",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ga3 ri1 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha lalitA",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 pa ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 sa1 da2 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha mukhAri",
+    "TableData": "Melakartha 01 kanakAngi\nArohana sa1 ri1 ma1 pa da1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha sAlavi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ga2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha sArang",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 ni3 da2 sa2   \nAvarohana sa2 da2 pa ma1 ri2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha sArangA",
+    "TableData": "Melakartha 62 rishabhapriyA\nArohana sa1 ga3 ma2 pa ni2 sa2   \nAvarohana sa2 da1 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha sAvEri",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha sImantini",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha tODi",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha valaji",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Suddha vasantA",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da2 ni3 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sugunabhUshani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 da2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sUlini",
+    "TableData": "Melakartha 35 sUlini\nArohana sa1 ri3 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sumadyuti",
+    "TableData": "Melakartha 57 simhEndramadhyamam\nArohana sa1 ri2 ga2 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sumanapriyA",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 pa sa2   \nAvarohana sa2 da2 sa1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sumanEsaranjani",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ga2 ma2 pa ni2 sa2   \nAvarohana sa2 ni2 pa ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sumukham",
+    "TableData": "Melakartha 69 dhAtuvardhani\nArohana sa1 ri3 ma2 ni3 sa2   \nAvarohana sa2 ni3 ma2 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sunAdhavinOdini",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ga3 ma2 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "supOshini",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 sa1 ma1 pa ni2 da2 sa2   \nAvarohana sa2 da2 ni2 pa ma1 ri2 ma1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "supradhIpam",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "suranandini",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "suraranjani",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 pa ri2 ma1 da2 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "suruTTi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sUryA",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ga3 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sUryakAntam",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ri1 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sushamA",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "sutradhAri",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 da1 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "suvarNAngi",
+    "TableData": "Melakartha 47 suvarNAngi\nArohana sa1 ri1 ga2 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SvarabhUshaNi",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ga2 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Svaramanjari",
+    "TableData": "Melakartha 50 nAmanArAyaNi\nArohana sa1 ga3 ma2 pa da1 sa2   \nAvarohana sa2 ni2 da1 pa ma2 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Svararanjani",
+    "TableData": "Melakartha 22 kharaharapriyA\nArohana sa1 ri2 ga2 ma1 da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ga2 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SvarasammOdhini",
+    "TableData": "Melakartha 26 cArukESi\nArohana sa1 ga1 pa ni1 sa2   \nAvarohana sa2 ni1 pa ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SvarAStram",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SvarAvaLi",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ma1 ga3 ma1 pa ni2 da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SyAmakalyANi",
+    "TableData": "Melakartha 12 rUpavati\nArohana sa1 ma1 ga2 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa da3 ni3 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SyAmalam",
+    "TableData": "Melakartha 55 SyAmaLAngi\nArohana sa1 ri2 ga2 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "SyAmaLAngi",
+    "TableData": "Melakartha 55 SyAmaLAngi\nArohana sa1 ri2 ga2 ma2 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "TakkA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 sa1 ga3 ma1 ga3 pa ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tAnarUpi",
+    "TableData": "Melakartha 06 tAnarUpi\nArohana sa1 ri1 ga1 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tANDavam",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ga3 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tAnukIrti",
+    "TableData": "Melakartha 06 tAnarUpi\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 da3 ni3 pa ma1 ga1 ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tArakagauLA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ga3 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tarangiNi",
+    "TableData": "Melakartha 26 cArukESi\nArohana sa1 ri2 ga3 pa da1 ni2 da1 sa2   \nAvarohana sa2 ri2 ga3 pa da1 ni2 da1 pa da1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "taraNi",
+    "TableData": "Melakartha 07 sEnAvati\nArohana sa1 ga2 pa da1 sa2   \nAvarohana sa2 da1 pa ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tilang",
+    "TableData": "Melakartha 30 nAgAnandhini\nArohana sa1 ga3 ma1 pa ni3 sa2   \nAvarohana sa2 ni2 pa ma1 ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tivravAhini",
+    "TableData": "Melakartha 46 shaDvitamArgiNi\nArohana sa1 ri1 ga2 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga2 ri1 ga2 ma2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "tODi",
+    "TableData": "Melakartha 08 hanuma tODi\nArohana sa1 ri1 ga2 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "trivENi",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "udhaya ravicandrikA",
+    "TableData": "Melakartha 09 dhEnukA\nArohana sa1 ga2 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "umAbharaNam",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 pa ma1 ri2 ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "Unknownraga",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "UrmikA",
+    "TableData": "Melakartha 57 simhEndramadhyamam\nArohana sa1 ri2 ga2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vAcaspati",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ga3 ma2 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vAgadhISvari",
+    "TableData": "Melakartha 34 vAgadhISvari\nArohana sa1 ri3 ga3 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vakuLAbharaNam",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ri1 ga3 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "valaji",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ga3 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ga3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vallabhi",
+    "TableData": "Melakartha 29 dhIra SankarAbharaNam\nArohana sa1 ri2 ga3 ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ni3 da2 pa ma1 pa ga3 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vandanadhArini",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vamsAvati",
+    "TableData": "Melakartha 54 viSvAmbhari\nArohana sa1 ri1 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vanaspati",
+    "TableData": "Melakartha 04 vanaspati\nArohana sa1 ri1 ga1 ma1 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "varALi",
+    "TableData": "Melakartha 39 jhAlavarALi\nArohana sa1 ga1 ri1 ga1 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 da1 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vardhani",
+    "TableData": "Melakartha 11 kOkilapriyA\nArohana sa1 ga2 ma1 pa ma1 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma1 ga2 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "varuNapriyA",
+    "TableData": "Melakartha 24 varuNapriyA\nArohana sa1 ri2 ga2 ma1 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vasantA",
+    "TableData": "Melakartha 17 sUryakAntam\nArohana sa1 ma1 ga3 ma1 da2 ni3 sa2   \nAvarohana sa2 ni3 da2 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vasantabhairavi",
+    "TableData": "Melakartha 14 vakuLAbharaNam\nArohana sa1 ri1 ga3 ma1 da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma1 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vasantavarALi",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 pa da1 sa2   \nAvarohana sa2 ni2 da1 pa ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vasanthapriyA",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "vasanti",
+    "TableData": "Melakartha 27 sarasAngi\nArohana sa1 ri2 ga3 pa da1 sa2   \nAvarohana sa2 da1 pa ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vasukAri",
+    "TableData": "Melakartha 56 shaNmukhapriyA\nArohana sa1 ga2 ma2 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 ma2 ga2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vEgavAhini",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 ma1 pa da2 ni2 da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vElAvaLi",
+    "TableData": "Melakartha 23 gaurimanOhari\nArohana sa1 ga2 ma1 da2 ni3 sa2   \nAvarohana sa2 ri2 ma1 pa da2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "venkaTAdri",
+    "TableData": "Melakartha 20 naTabhairavi\nArohana sa1 ri2 ma1 da1 sa2   \nAvarohana sa2 da1 ma1 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vijayanAgari",
+    "TableData": "Melakartha 58 hEmavati\nArohana sa1 ri2 ga2 ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vijayasarasvati",
+    "TableData": "Melakartha 57 simhEndramadhyamam\nArohana sa1 ga2 ma2 pa da1 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vijayaSrI",
+    "TableData": "Melakartha 41 pAvani\nArohana sa1 ga1 ri1 ga1 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vijayavasantA",
+    "TableData": "Melakartha 54 viSvAmbhari\nArohana sa1 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vInAdhAri",
+    "TableData": "Melakartha 16 cakravAkam\nArohana sa1 ri1 ga3 pa da2 ni2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vinOdini",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 da1 ni3 sa2   \nAvarohana sa2 ni3 da1 ma1 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vIravasantam",
+    "TableData": "Melakartha 24 varuNapriyA\nArohana sa1 ri2 ga2 ma1 pa sa2   \nAvarohana sa2 ni3 da3 pa ma1 ga2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vishAradA",
+    "TableData": "Melakartha 15 mAyAmALavagauLA\nArohana sa1 ri1 ma1 pa ni3 sa2   \nAvarohana sa2 ni3 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vishNupriyA",
+    "TableData": "Melakartha 32 rAgavardhani\nArohana sa1 ga3 ma1 pa da1 ni2 sa2   \nAvarohana sa2 ni2 da1 pa pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vishvESvarapriyA",
+    "TableData": "Melakartha 59 dharmavati\nArohana sa1 ri2 ma2 pa ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "viSvAmbhari",
+    "TableData": "Melakartha 54 viSvAmbhari\nArohana sa1 ri1 ga3 ma2 pa da3 ni3 sa2   \nAvarohana sa2 ni3 da3 pa ma2 ga3 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "viSvapriyA",
+    "TableData": "",
+    "URLs": []
+  },
+  {
+    "Raga": "viTapi",
+    "TableData": "Melakartha 04 vanaspati\nArohana sa1 ri1 ma1 pa da2 sa2   \nAvarohana sa2 da2 pa ma1 ri1 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vivahapriyA",
+    "TableData": "Melakartha 64 vAcaspati\nArohana sa1 ri2 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "vivardhini",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "yadukulakAmbhOji",
+    "TableData": "Melakartha 28 harikAmbhOji\nArohana sa1 ri2 ma1 pa da2 sa2   \nAvarohana sa2 ni2 da2 pa ma1 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "yAgapriyA",
+    "TableData": "Melakartha 31 yAgapriyA\nArohana sa1 ri3 ga3 ma1 pa da1 ni1 sa2   \nAvarohana sa2 ni1 da1 pa ma1 ga3 ri3 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "yaman",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 ma2 pa da2 ni3 sa2   \nAvarohana sa2 ni3 da2 pa ma2 ga3 ri2 sa1",
+    "URLs": []
+  },
+  {
+    "Raga": "yamunA kalyANi",
+    "TableData": "Melakartha 65 mEcakalyANi\nArohana sa1 ri2 ga3 pa ma2 pa da2 sa2   \nAvarohana sa2 da2 pa ma2 pa ga3 ri2 sa1",
+    "URLs": []
+  }
+]
